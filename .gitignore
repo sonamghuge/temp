@@ -1,0 +1,5 @@
+db.sql
+pass.txt
+*log
+node_module/
+!important.log
