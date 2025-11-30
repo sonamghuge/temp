@@ -17,4 +17,5 @@ print('one')
 
 print('adding')
 
-print('riya')
+print('adding')
+print('six')
